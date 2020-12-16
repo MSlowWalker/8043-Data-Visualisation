@@ -1,0 +1,190 @@
+Treatment,Replica,Type of phage resistance,Proportion
+Monoculture,1,Sensitive,0
+Monoculture,2,Sensitive,0
+Monoculture,3,Sensitive,0
+Monoculture,4,Sensitive,0.041666667
+Monoculture,5,Sensitive,0.041666667
+Monoculture,6,Sensitive,0
+Monoculture,1,CRISPR,0.083333333
+Monoculture,2,CRISPR,0.083333333
+Monoculture,3,CRISPR,0.125
+Monoculture,4,CRISPR,0.125
+Monoculture,5,CRISPR,0.125
+Monoculture,6,CRISPR,0.083333333
+Monoculture,1,SM,0.916666667
+Monoculture,2,SM,0.916666667
+Monoculture,3,SM,0.875
+Monoculture,4,SM,0.833333333
+Monoculture,5,SM,0.833333333
+Monoculture,6,SM,0.916666667
+Polyculture (mixed community),1,Sensitive,0
+Polyculture (mixed community),2,Sensitive,0.041666667
+Polyculture (mixed community),3,Sensitive,0.041666667
+Polyculture (mixed community),4,Sensitive,0.25
+Polyculture (mixed community),5,Sensitive,0
+Polyculture (mixed community),6,Sensitive,0.166666667
+Polyculture (mixed community),1,CRISPR,0.291666667
+Polyculture (mixed community),2,CRISPR,0.75
+Polyculture (mixed community),3,CRISPR,0.666666667
+Polyculture (mixed community),4,CRISPR,0.333333333
+Polyculture (mixed community),5,CRISPR,0.625
+Polyculture (mixed community),6,CRISPR,0.541666667
+Polyculture (mixed community),1,SM,0.708333333
+Polyculture (mixed community),2,SM,0.208333333
+Polyculture (mixed community),3,SM,0.291666667
+Polyculture (mixed community),4,SM,0.416666667
+Polyculture (mixed community),5,SM,0.333333333
+Polyculture (mixed community),6,SM,0.291666667
+SM,1,Sensitive,0.125
+SM,2,Sensitive,0.041666667
+SM,3,Sensitive,0.166666667
+SM,4,Sensitive,0
+SM,5,Sensitive,0
+SM,6,Sensitive,0.041666667
+SM,1,CRISPR,0
+SM,2,CRISPR,0
+SM,3,CRISPR,0.041666667
+SM,4,CRISPR,0
+SM,5,CRISPR,0
+SM,6,CRISPR,0
+SM,1,SM,0.875
+SM,2,SM,0.958333333
+SM,3,SM,0.791666667
+SM,4,SM,1
+SM,5,SM,1
+SM,6,SM,0.958333333
+S.aureus,1,Sensitive,0.125
+S.aureus,2,Sensitive,0
+S.aureus,3,Sensitive,0
+S.aureus,4,Sensitive,0
+S.aureus,5,Sensitive,0
+S.aureus,6,Sensitive,0.058823529
+S.aureus,1,CRISPR,0.208333333
+S.aureus,2,CRISPR,0.166666667
+S.aureus,3,CRISPR,0.291666667
+S.aureus,4,CRISPR,0.166666667
+S.aureus,5,CRISPR,0.208333333
+S.aureus,6,CRISPR,0.352941176
+S.aureus,1,SM,0.666666667
+S.aureus,2,SM,0.833333333
+S.aureus,3,SM,0.708333333
+S.aureus,4,SM,0.833333333
+S.aureus,5,SM,0.791666667
+S.aureus,6,SM,0.588235294
+A.baumannii,1,Sensitive,0.041666667
+A.baumannii,2,Sensitive,0
+A.baumannii,3,Sensitive,0.041666667
+A.baumannii,4,Sensitive,0
+A.baumannii,5,Sensitive,0
+A.baumannii,6,Sensitive,0.125
+A.baumannii,1,CRISPR,0.25
+A.baumannii,2,CRISPR,0.4375
+A.baumannii,3,CRISPR,0.583333333
+A.baumannii,4,CRISPR,0.416666667
+A.baumannii,5,CRISPR,0.304347826
+A.baumannii,6,CRISPR,0.291666667
+A.baumannii,1,SM,0.708333333
+A.baumannii,2,SM,0.5625
+A.baumannii,3,SM,0.375
+A.baumannii,4,SM,0.583333333
+A.baumannii,5,SM,0.695652174
+A.baumannii,6,SM,0.583333333
+B.cenocepacia,1,Sensitive,0.083333333
+B.cenocepacia,2,Sensitive,0.083333333
+B.cenocepacia,3,Sensitive,0.083333333
+B.cenocepacia,4,Sensitive,0.041666667
+B.cenocepacia,5,Sensitive,0.041666667
+B.cenocepacia,6,Sensitive,0.041666667
+B.cenocepacia,1,CRISPR,0.375
+B.cenocepacia,2,CRISPR,0.375
+B.cenocepacia,3,CRISPR,0.375
+B.cenocepacia,4,CRISPR,0.458333333
+B.cenocepacia,5,CRISPR,0.333333333
+B.cenocepacia,6,CRISPR,0.083333333
+B.cenocepacia,1,SM,0.541666667
+B.cenocepacia,2,SM,0.541666667
+B.cenocepacia,3,SM,0.541666667
+B.cenocepacia,4,SM,0.5
+B.cenocepacia,5,SM,0.625
+B.cenocepacia,6,SM,0.875
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
